@@ -1,6 +1,4 @@
-------------------------------------------------------------
-  Envio de e-mails com dados sobre ações do Yahoo Finanças
-------------------------------------------------------------
+Envio de e-mails com dados sobre ações do Yahoo Finanças
 
 - Descrição:
   - Inserindo o ticker da ação desejada e o período para análise, além de conseguir fazer gráficos e tabelas, é possível enviar um e-mail personalizado com estes dados, automaticamente;
