@@ -1,9 +1,6 @@
-"""
 ------------------------------------------------------------
   Envio de e-mails com dados sobre ações do Yahoo Finanças
 ------------------------------------------------------------
-
-"""
 
 - Descrição:
   - Inserindo o ticker da ação desejada e o período para análise, além de conseguir fazer gráficos e tabelas, é possível enviar um e-mail personalizado com estes dados, automaticamente;
@@ -17,6 +14,7 @@
   - Uso de bibliotecas;
   - Gerar estatísticas sobre os dados obtidos das ações;
   - Automatizar controle de teclado e mouse com pyautogui (envio do e-mail);
-  - Conceitos de Python e Ciência de Dados.
- 
+  - Conceitos de Python e Ciência de Dados;
+  - Uso do Jupyter notebook para anotações e desenvolvimento por partes.
+   
  // H. Lemes //
